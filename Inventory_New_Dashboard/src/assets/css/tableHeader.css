@@ -1,0 +1,4 @@
+/* Add this to your tableHeader.css file */
+.table-header .ant-table-tbody > tr.bg-red-100:hover > td {
+  background-color: rgb(254 226 226) !important; /* This is the same as bg-red-100 */
+}
